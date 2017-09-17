@@ -1,3 +1,4 @@
-package: github.com/8tomat8/SSU-Golang-252-Chat/client
+package: github.com/KitlerUA/PhoneBook
 import:
 - package: github.com/gorilla/mux
+- package: gopkg.in/mgo.v2
