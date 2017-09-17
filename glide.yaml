@@ -1,0 +1,4 @@
+package: github.com/KitlerUA/PhoneBook
+import:
+- package: github.com/gorilla/mux
+- package: gopkg.in/mgo.v2
